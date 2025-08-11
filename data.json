@@ -1,0 +1,502 @@
+[
+  {
+    "id": "001",
+    "controlUnitInvoiceNumber": "0040240090000000164",
+    "traderSystemInvoiceNo": "13990310016437",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "5,460.00",
+    "totalTaxAmount": "1,040.00",
+    "totalInvoiceAmount": "6,500.00",
+    "supplierName": "Bright Technologies Ltd"
+  },
+  {
+    "id": "002",
+    "controlUnitInvoiceNumber": "0040240090000001843",
+    "traderSystemInvoiceNo": "13990310096253",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "420,000.00",
+    "totalTaxAmount": "80,000.00",
+    "totalInvoiceAmount": "500,000.00",
+    "supplierName": "Broadpark Hotel"
+  },
+  {
+    "id": "003",
+    "controlUnitInvoiceNumber": "0040240090000001745",
+    "traderSystemInvoiceNo": "13990394628419",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "420,000.00",
+    "totalTaxAmount": "80,000.00",
+    "totalInvoiceAmount": "500,000.00",
+    "supplierName": "Trends Limited"
+  },
+  {
+    "id": "004",
+    "controlUnitInvoiceNumber": "0040240090000001746",
+    "traderSystemInvoiceNo": "13990394628734",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "436,800.00",
+    "totalTaxAmount": "83,200.00",
+    "totalInvoiceAmount": "520,000.00",
+    "supplierName": "Trends Limited"
+  },
+  {
+    "id": "005",
+    "controlUnitInvoiceNumber": "0040240090000003962",
+    "traderSystemInvoiceNo": "13990390735193",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "594,720.00",
+    "totalTaxAmount": "113,280.00",
+    "totalInvoiceAmount": "708,000.00",
+    "supplierName": "Joshy Books & Stationery"
+  },
+  {
+    "id": "006",
+    "controlUnitInvoiceNumber": "0040240090000003953",
+    "traderSystemInvoiceNo": "13990390735285",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "420,000.00",
+    "totalTaxAmount": "80,000.00",
+    "totalInvoiceAmount": "500,000.00",
+    "supplierName": "Joshy Books & Stationery"
+  },
+  {
+    "id": "007",
+    "controlUnitInvoiceNumber": "0040240090000002385",
+    "traderSystemInvoiceNo": "13990390835418",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "823,200.00",
+    "totalTaxAmount": "156,800.00",
+    "totalInvoiceAmount": "980,000.00",
+    "supplierName": "Alpha Hotel"
+  },
+  {
+    "id": "008",
+    "controlUnitInvoiceNumber": "0040240090000001232",
+    "traderSystemInvoiceNo": "13990390835418",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "252,000.00",
+    "totalTaxAmount": "48,000.00",
+    "totalInvoiceAmount": "300,000.00",
+    "supplierName": "Tredds Garden Hotel"
+  },
+  {
+    "id": "009",
+    "controlUnitInvoiceNumber": "0040240090000000745",
+    "traderSystemInvoiceNo": "13990390885218",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "Superlink Connect Limited"
+  },
+  {
+    "id": "010",
+    "controlUnitInvoiceNumber": "0040240090000001950",
+    "traderSystemInvoiceNo": "13990390885218",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "75,600.00",
+    "totalTaxAmount": "14,400.00",
+    "totalInvoiceAmount": "90,000.00",
+    "supplierName": "DD Communications Limited"
+  },
+  {
+    "id": "011",
+    "controlUnitInvoiceNumber": "0040240090000001613",
+    "traderSystemInvoiceNo": "13990399461295",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "Sai Office Supplies Limited"
+  },
+  {
+    "id": "012",
+    "controlUnitInvoiceNumber": "0040240090000001792",
+    "traderSystemInvoiceNo": "13990399461284",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "Makopet Enterprises"
+  },
+  {
+    "id": "013",
+    "controlUnitInvoiceNumber": "0040240090000002934",
+    "traderSystemInvoiceNo": "13990391623084",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "735,000.00",
+    "totalTaxAmount": "140,000.00",
+    "totalInvoiceAmount": "875,000.00",
+    "supplierName": "Bekam Hotel"
+  },
+  {
+    "id": "014",
+    "controlUnitInvoiceNumber": "0040240090000000592",
+    "traderSystemInvoiceNo": "13991732047249",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "403,956.00",
+    "totalTaxAmount": "76,944.00",
+    "totalInvoiceAmount": "480,900.00",
+    "supplierName": "Janjan Enterprises Limited"
+  },
+  {
+    "id": "015",
+    "controlUnitInvoiceNumber": "0040240090000001595",
+    "traderSystemInvoiceNo": "13990399461295",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "134,400.00",
+    "totalTaxAmount": "25,600.00",
+    "totalInvoiceAmount": "160,000.00",
+    "supplierName": "Office Patrol"
+  },
+  {
+    "id": "016",
+    "controlUnitInvoiceNumber": "0040240090000001395",
+    "traderSystemInvoiceNo": "139903994973612",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "101,400.00",
+    "totalTaxAmount": "76,800.00",
+    "totalInvoiceAmount": "480,000.00",
+    "supplierName": "Broadpark Hotels"
+  },
+  {
+    "id": "017",
+    "controlUnitInvoiceNumber": "0040240090000000509",
+    "traderSystemInvoiceNo": "13990399461841",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "401,400.00",
+    "totalTaxAmount": "76,800.00",
+    "totalInvoiceAmount": "480,000.00",
+    "supplierName": "Cyden General Enterprises Limited"
+  },
+  {
+    "id": "018",
+    "controlUnitInvoiceNumber": "0040240090000001601",
+    "traderSystemInvoiceNo": "13990399461295",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "126,000.00",
+    "totalTaxAmount": "24,000.00",
+    "totalInvoiceAmount": "150,000.00",
+    "supplierName": "Under Simtom Enterprises"
+  },
+  {
+    "id": "019",
+    "controlUnitInvoiceNumber": "0040240090000001592",
+    "traderSystemInvoiceNo": "13991845206354",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "403,200.00",
+    "totalTaxAmount": "76,800.00",
+    "totalInvoiceAmount": "480,000.00",
+    "supplierName": "Coloho Hotel"
+  },
+  {
+    "id": "020",
+    "controlUnitInvoiceNumber": "0040240090000001425",
+    "traderSystemInvoiceNo": "13990397351092",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "403,200.00",
+    "totalTaxAmount": "76,800.00",
+    "totalInvoiceAmount": "480,000.00",
+    "supplierName": "Sky Hotel"
+  },
+  {
+    "id": "021",
+    "controlUnitInvoiceNumber": "0040240090000001143",
+    "traderSystemInvoiceNo": "13990398451027",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "126,000.00",
+    "totalTaxAmount": "24,000.00",
+    "totalInvoiceAmount": "150,000.00",
+    "supplierName": "DD Communications Limited"
+  },
+  {
+    "id": "022",
+    "controlUnitInvoiceNumber": "0040240090000000963",
+    "traderSystemInvoiceNo": "13990399461295",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "189,000.00",
+    "totalTaxAmount": "36,000.00",
+    "totalInvoiceAmount": "225,000.00",
+    "supplierName": "Legend Hotel Limited"
+  },
+  {
+    "id": "023",
+    "controlUnitInvoiceNumber": "0040240090000001330",
+    "traderSystemInvoiceNo": "13990399485296",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "33,600.00",
+    "totalTaxAmount": "6,400.00",
+    "totalInvoiceAmount": "40,000.00",
+    "supplierName": "Colour Shade Graphics"
+  },
+  {
+    "id": "024",
+    "controlUnitInvoiceNumber": "0040240090000006742",
+    "traderSystemInvoiceNo": "13985206341942",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "189,000.00",
+    "totalTaxAmount": "36,000.00",
+    "totalInvoiceAmount": "225,000.00",
+    "supplierName": "Ethkam Holdings Limited"
+  },
+  {
+    "id": "025",
+    "controlUnitInvoiceNumber": "0040240090000008614",
+    "traderSystemInvoiceNo": "13990399461295",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "25,200.00",
+    "totalTaxAmount": "4,800.00",
+    "totalInvoiceAmount": "30,000.00",
+    "supplierName": "Global Device Limited"
+  },
+  {
+    "id": "026",
+    "controlUnitInvoiceNumber": "0040240090000001352",
+    "traderSystemInvoiceNo": "13990399461295",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "189,000.00",
+    "totalTaxAmount": "36,000.00",
+    "totalInvoiceAmount": "225,000.00",
+    "supplierName": "The Gift Hotel Limited"
+  },
+  {
+    "id": "027",
+    "controlUnitInvoiceNumber": "0040240090000001942",
+    "traderSystemInvoiceNo": "13965209634198",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "33,600.00",
+    "totalTaxAmount": "6,400.00",
+    "totalInvoiceAmount": "40,000.00",
+    "supplierName": "Dyce E.A General Merchants"
+  },
+  {
+    "id": "028",
+    "controlUnitInvoiceNumber": "0040240090000002734",
+    "traderSystemInvoiceNo": "13990399461295",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "75,600.00",
+    "totalTaxAmount": "14,400.00",
+    "totalInvoiceAmount": "90,000.00",
+    "supplierName": "Intek General Suppliers Limited"
+  },
+  {
+    "id": "029",
+    "controlUnitInvoiceNumber": "0040240090000001902",
+    "traderSystemInvoiceNo": "13990399485130",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "252,000.00",
+    "totalTaxAmount": "48,000.00",
+    "totalInvoiceAmount": "300,000.00",
+    "supplierName": "Kim Breeze Hotel"
+  },
+  {
+    "id": "030",
+    "controlUnitInvoiceNumber": "0040240090000001836",
+    "traderSystemInvoiceNo": "13990399461295",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "Sai Office Supplies Limited"
+  },
+  {
+    "id": "031",
+    "controlUnitInvoiceNumber": "0040240090000000893",
+    "traderSystemInvoiceNo": "13990399466309",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "252,000.00",
+    "totalTaxAmount": "48,000.00",
+    "totalInvoiceAmount": "300,000.00",
+    "supplierName": "Movenpick Hotel"
+  },
+  {
+    "id": "032",
+    "controlUnitInvoiceNumber": "0040240090000000839",
+    "traderSystemInvoiceNo": "13990399468635",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "504,000.00",
+    "totalTaxAmount": "96,000.00",
+    "totalInvoiceAmount": "600,000.00",
+    "supplierName": "Sirikwa Hotel Limited"
+  },
+  {
+    "id": "033",
+    "controlUnitInvoiceNumber": "0040240090000001023",
+    "traderSystemInvoiceNo": "13990399461295",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "Eddumart General Supplies"
+  },
+  {
+    "id": "034",
+    "controlUnitInvoiceNumber": "0040240090000001005",
+    "traderSystemInvoiceNo": "13990374071249",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "77,700.00",
+    "totalTaxAmount": "14,800.00",
+    "totalInvoiceAmount": "92,500.00",
+    "supplierName": "Shruti Enterprises Limited"
+  },
+  {
+    "id": "035",
+    "controlUnitInvoiceNumber": "0040240090000001253",
+    "traderSystemInvoiceNo": "13998631092385",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "403,200.00",
+    "totalTaxAmount": "76,800.00",
+    "totalInvoiceAmount": "480,000.00",
+    "supplierName": "Mekit Ventures Limited"
+  },
+  {
+    "id": "036",
+    "controlUnitInvoiceNumber": "0040240090000003172",
+    "traderSystemInvoiceNo": "13990398621502",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "252,000.00",
+    "totalTaxAmount": "48,000.00",
+    "totalInvoiceAmount": "300,000.00",
+    "supplierName": "Lowland Hotel & Spa"
+  },
+  {
+    "id": "037",
+    "controlUnitInvoiceNumber": "0040240090000001621",
+    "traderSystemInvoiceNo": "139903851282340",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "75,600.00",
+    "totalTaxAmount": "14,400.00",
+    "totalInvoiceAmount": "90,000.00",
+    "supplierName": "Bright Technologies Limited"
+  },
+  {
+    "id": "038",
+    "controlUnitInvoiceNumber": "0040240090000002134",
+    "traderSystemInvoiceNo": "13990398643102",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "Eldo Center Quickmart Limited"
+  },
+  {
+    "id": "039",
+    "controlUnitInvoiceNumber": "0040240090000001328",
+    "traderSystemInvoiceNo": "13990399461852",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "420,000.00",
+    "totalTaxAmount": "80,000.00",
+    "totalInvoiceAmount": "500,000.00",
+    "supplierName": "Colour Shade Graphics"
+  },
+  {
+    "id": "040",
+    "controlUnitInvoiceNumber": "0040240090000003411",
+    "traderSystemInvoiceNo": "13990399461295",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "80,136.00",
+    "totalTaxAmount": "15,264.00",
+    "totalInvoiceAmount": "95,400.00",
+    "supplierName": "Mekit Ventures Limited"
+  },
+  {
+    "id": "041",
+    "controlUnitInvoiceNumber": "0040240090000001325",
+    "traderSystemInvoiceNo": "13990398642105",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "420,000.00",
+    "totalTaxAmount": "80,000.00",
+    "totalInvoiceAmount": "500,000.00",
+    "supplierName": "Colour Shade Graphics"
+  },
+  {
+    "id": "042",
+    "controlUnitInvoiceNumber": "0040240090000001231",
+    "traderSystemInvoiceNo": "13990399486315",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "420,000.00",
+    "totalTaxAmount": "80,000.00",
+    "totalInvoiceAmount": "500,000.00",
+    "supplierName": "Under Simtom Enterprises"
+  },
+  {
+    "id": "043",
+    "controlUnitInvoiceNumber": "0040240090000000852",
+    "traderSystemInvoiceNo": "13963142906428",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "126,000.00",
+    "totalTaxAmount": "24,000.00",
+    "totalInvoiceAmount": "150,000.00",
+    "supplierName": "Esoii Stationers & Textile"
+  },
+  {
+    "id": "044",
+    "controlUnitInvoiceNumber": "0040240090000000129",
+    "traderSystemInvoiceNo": "13990399461290",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "33,600.00",
+    "totalTaxAmount": "6,400.00",
+    "totalInvoiceAmount": "40,000.00",
+    "supplierName": "Joshy Enterprises Limited"
+  },
+  {
+    "id": "045",
+    "controlUnitInvoiceNumber": "0040240090000000852",
+    "traderSystemInvoiceNo": "139903986532102",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "403,200.00",
+    "totalTaxAmount": "76,800.00",
+    "totalInvoiceAmount": "480,000.00",
+    "supplierName": "Elubay Investments Limited"
+  },
+  {
+    "id": "046",
+    "controlUnitInvoiceNumber": "0040240090000007120",
+    "traderSystemInvoiceNo": "13990399485120",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "420,000.00",
+    "totalTaxAmount": "80,000.00",
+    "totalInvoiceAmount": "500,000.00",
+    "supplierName": "Ethkam Holdings Limited"
+  },
+  {
+    "id": "047",
+    "controlUnitInvoiceNumber": "0040240090000001321",
+    "traderSystemInvoiceNo": "13996203495612",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "436,800.00",
+    "totalTaxAmount": "83,200.00",
+    "totalInvoiceAmount": "520,000.00",
+    "supplierName": "Colour Shade Graphics"
+  },
+  {
+    "id": "048",
+    "controlUnitInvoiceNumber": "0040240090000002351",
+    "traderSystemInvoiceNo": "13990399474104",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "140,280.00",
+    "totalTaxAmount": "26,720.00",
+    "totalInvoiceAmount": "167,000.00",
+    "supplierName": "Superlink Connect Limited"
+  },
+  {
+    "id": "049",
+    "controlUnitInvoiceNumber": "0040240090000002801",
+    "traderSystemInvoiceNo": "13990510271255",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "75,600.00",
+    "totalTaxAmount": "14,400.00",
+    "totalInvoiceAmount": "90,000.00",
+    "supplierName": "Ebrahims Electronics Limited"
+  },
+  {
+    "id": "050",
+    "controlUnitInvoiceNumber": "0040240090000001294",
+    "traderSystemInvoiceNo": "139903864209854",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "189,000.00",
+    "totalTaxAmount": "36,000.00",
+    "totalInvoiceAmount": "225,000.00",
+    "supplierName": "Hills Country Lodge Limited"
+  }
+]
